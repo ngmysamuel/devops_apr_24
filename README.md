@@ -1,5 +1,7 @@
 # DEVOPS Apr 24 (NUS)
 * Lorem Ipsum
+* this is a another point
+![](dog.webp)
 
 ### Some example code
 ```
