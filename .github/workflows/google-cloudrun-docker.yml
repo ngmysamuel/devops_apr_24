@@ -52,7 +52,7 @@ env:
   PROJECT_ID: orbital-lacing-281401 # TODO: update Google Cloud project id
   GAR_LOCATION: asia.southeast1 # TODO: update Artifact Registry location
   SERVICE: testservicename # TODO: update Cloud Run service name
-  REGION: asia.southeast1 # TODO: update Cloud Run service region
+  REGION: asia-southeast1 # TODO: update Cloud Run service region
 
 jobs:
   deploy:
